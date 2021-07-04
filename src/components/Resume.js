@@ -38,13 +38,14 @@ export default class Resume extends Component{
                                         <h3>{item.CompanyName}</h3>
                                         <p className="info">
                                             {item.specialization}
-                                            <span>&bull;</span><em className="date">{item.StartDate} - {item.EndDate}</em>
                                         </p>
                                         <ul>
                                             <li>{item.Achievement1}</li>
                                             <li>{item.Achievement2}</li>
                                             <li>{item.Achievement3}</li>
                                             <li>{item.Achievement4}</li>
+                                            <li>{item.Achievement5}</li>
+                                            <li>{item.Achievement6}</li>
                                         </ul>
                                     </div>
                                 </div>

@@ -1,25 +1,15 @@
 let resumeData = {
     "imagebaseurl":"https://ivy555.github.io/",
     "name": "Nehemias Luna",
-    "role": "Product and Program Management | Cross-Functional Project Leadership | Creative Solutioning | Data and Empathy Drive Customer Insights",
+    "role": "Product and Program Management | Cross-Functional Project Leadership",
     "linkedinId":"",
-    "roleDescription": "",
+    "roleDescription": "Creative Solutioning | Data and Empathy Drive Customer Insights",
     "socialLinks":[
         {
             "name":"linkedin",
-            "url":"https://www.linkedin.com/in/casey-thayer/",
+            "url":"https://www.linkedin.com/in/nmluna/",
             "className": "fa fa-linkedin"
         },
-        {
-            "name":"github",
-            "url":"https://github.com/thayer6",
-            "className":"fa fa-github"
-        },
-        {
-            "name":"twitter",
-            "url":"https://twitter.com/caseythayer6",
-            "className":"fa fa-twitter"
-        }
     ],
 
     "aboutme1": "Hi! My name is Nehemias (pronounced “ni-uh-my-us” ). I am a Class of 2021 MBA graduate from Harvard Business School. I am leveraging my MBA and career experiences to catapult my career into Product or Program Management in Seattle, Washington.",
